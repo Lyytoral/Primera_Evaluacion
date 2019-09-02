@@ -51,21 +51,7 @@ nav a:hover{
     font-weight: 500;
 }
 
-.titulo, h2 {
-    float: right;
-    font-size: 6rem;
-    text-align: right;
-    padding-right: 3rem;
-    margin-bottom: 1rem;
 
-}
-
-h4 {
-    font-size:1.5rem;
-    padding-right: 3rem;
-    margin-top: 0;
-    font-weight: 500;
-}
 
 
 }

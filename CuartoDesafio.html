@@ -28,7 +28,7 @@
         <a href="SegundoDesafio.html">ICVU 2019</a>
         <a href="TercerDesafio.html">PSU/NEM</a>
         <a href="#" class="actual">DESEMPLEO</a>
-        <a href="../desafio-05/index.html">CALENTAMIENTO GLOBAL</a>
+        <a href="QuintoDesafio.html">CALENTAMIENTO GLOBAL</a>
     </nav>
 </body>
 <script>
@@ -40,7 +40,7 @@ function preload() {
 }
 
 function setup() {
-    fill(200, 255, 200);
+    fill(0, 0,200);
     console.log(desempleo_hombres);
     console.log(desempleo_mujeres);
     createCanvas(windowWidth, windowHeight);
@@ -65,11 +65,11 @@ function setup() {
         rect(280, 80 + (50 * i), width - 500, 40);
 
     }
-    fill(255, 200, 255);
+    fill(200,0, 0);
     rect(280, 15, 10, -10);
     textAlign(LEFT);
     text('Hombres', 290, 15 );
-    fill(200, 255, 200);
+    fill(0, 0,200);
     rect(280, 30, 10, -10);
     text('Mujeres', 290, 30 );
 
@@ -83,24 +83,24 @@ function draw() {
 
     if (opcion == 1) {
         for (k = 0; k < 16; k++) {
-            fill(255, 200, 255);
+            fill(200,0, 0);
             rect(280, 80 + (50 * k), (desempleo_hombres.get(k, 1)) * 50, 20);
-            fill(200, 255, 200);
+            fill(0, 0,200);
             rect(280, 100 + (50 * k), (desempleo_mujeres.get(k, 1)) * 50, 20);
         }
     }else if (opcion == 2) {
         for (k = 0; k < 16; k++) {
-            fill(255, 200, 255);
+            fill(200,0, 0);
             rect(280, 80 + (50 * k), (desempleo_hombres.get(k, 2)) * 50, 20);
-            fill(200, 255, 200);
+            fill(0, 0,200);
             rect(280, 100 + (50 * k), (desempleo_mujeres.get(k, 2)) * 50, 20);
         }
 
     }else{
         for (k = 0; k < 16; k++) {
-            fill(255, 200, 255);
+            fill(200,0, 0);
             rect(280, 80 + (50 * k), (desempleo_hombres.get(k, 3)) * 50, 20);
-            fill(200, 255, 200);
+            fill(0, 0,200);
             rect(280, 100 + (50 * k), (desempleo_mujeres.get(k, 3)) * 50, 20);
         }
 
@@ -119,11 +119,11 @@ function Cambio() {
         rect(280, 80 + (50 * i), width - 500, 40);
 
     }
-    fill(255, 200, 255);
+    fill(200,0, 0);
     rect(280, 15, 10, -10);
     textAlign(LEFT);
     text('Hombres', 290, 15 );
-    fill(200, 255, 200);
+    fill(0, 0,200);
     rect(280, 30, 10, -10);
     text('Mujeres', 290, 30);
 

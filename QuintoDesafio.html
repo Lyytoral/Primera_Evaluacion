@@ -1,0 +1,86 @@
+
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Cuarto Desafío</title>
+    <link rel="stylesheet" type="text/css" href="estilo.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.9.0/p5.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.9.0/addons/p5.dom.min.js"></script>
+    <meta charset="utf-8">
+      <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@2.8.0"></script>
+    <style>
+    html,
+    body {
+        margin: 0;
+        padding: 0;
+    }
+
+    canvas {
+        display: block;
+    }
+    </style>
+</head>
+
+<body>
+    <nav>
+        
+        <a href="index.html" >Revista UTE</a>
+        <a href="SegundoDesafio.html">ICVU 2019</a>
+        <a href="TercerDesafio.html">PSU/NEM</a>
+        <a href="CuartoDesafio.html">DESEMPLEO</a>
+        <a href="#" class="actual">CALENTAMIENTO GLOBAL</a>
+    </nav>
+    
+       <h1>Calentamiento Global</h1>
+    <canvas id="myChart" width="400" height="200"></canvas>
+
+    <script>
+      
+      window.addEventListener('load', setup);
+
+      async function setup() {
+        const ctx = document.getElementById('myChart').getContext('2d');
+        const globalTemps = await getData();
+        const myChart = new Chart(ctx, {
+          type: 'line',
+          data: {
+            labels: globalTemps.years,
+            datasets: [
+              {
+                label: 'Temperatura en °C',
+                data: globalTemps.temps,
+                fill: false,
+                borderColor: 'rgba(255, 0, 0, 1)',
+                backgroundColor: 'rgba(255, 0, 0, 0.5)',
+                borderWidth: 1
+              }
+            ]
+          },
+          options: {}
+        });
+      }
+
+      async function getData() {
+        // const response = await fetch('testdata.csv');
+        const response = await fetch('https://raw.githubusercontent.com/surrealismo/datos_calentamientoglobal/master/global-warming.csv');
+        const data = await response.text();
+        const years = [];
+        const temps = [];
+        const rows = data.split('\n').slice(1);
+        rows.forEach(row => {
+          const cols = row.split(',');
+          years.push(cols[0]);
+          temps.push(14 + parseFloat(cols[1]));
+        });
+        return { years, temps };
+      }
+    </script>
+</body>
+
+
+</html>

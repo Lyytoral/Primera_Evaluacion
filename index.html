@@ -26,7 +26,7 @@
         <a href="SegundoDesafio.html">ICVU 2019</a>
         <a href="TercerDesafio.html">PSU/NEM</a>
         <a href="CuartoDesafio.html">DESEMPLEO</a>
-        <a href="../desafio-05/index.html">CALENTAMIENTO GLOBAL</a>
+        <a href="QuintoDesafio.html">CALENTAMIENTO GLOBAL</a>
     </nav>
   
 
@@ -49,12 +49,13 @@ function preload() {
     data = loadJSON('https://api.myjson.com/bins/ywvkb');
     console.log(data);
     console.log(vfijos);
-    img = loadImage('https://raw.githubusercontent.com/surrealismo/images/master/rev10.png');}
+    img = loadImage('https://raw.githubusercontent.com/Lyytoral/Primera_Evaluacion/gh-pages/imagenes.jpg');}
     
   
 
 function setup() {
     createCanvas(windowWidth, windowHeight);
+    image(img, 200, 500,1070,120);
     selector = createSelect();
     selector.position(width - 170, 20);
     selector.option('Entradas', 0);
@@ -148,6 +149,7 @@ function draw() {
 function f() {
     clear();
     redraw();
+     image(img, 200, 500,1070,120);
     for (var x = 0; x < 12; x++) {
         textAlign(CENTER);
         textSize(8);
