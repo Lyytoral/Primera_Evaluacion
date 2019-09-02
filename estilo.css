@@ -10,11 +10,12 @@ html,body {
         
 canvas {
     display: block;
+    align-content: center;
 }
 
 canvas#chart {
     display: block;
-    padding: 7% 10% 0 10%;
+    padding: 7% 10% 0% 10%;
     max-width: 80%;
 }
 
