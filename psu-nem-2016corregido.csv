@@ -1,673 +1,132 @@
-﻿region,comuna,administra,psu,nem
-Bío-Bío,Laja,Particular Pagado,6.903.846,63.207
-Maule,Constitución,Particular Pagado,6.768.750,64.007
-Bío-Bío,Arauco,Particular Pagado,6.598.636,59.857
-Araucanía,Angol,Particular Pagado,6.556.897,62.208
-Coquimbo,Ovalle,Particular Pagado,6.451.818,60.128
-Metropolitana,Lo Barnechea,Particular Pagado,6.409.856,61.418
-Los Ríos,La Unión,Particular Pagado,6.407.656,59.874
-Valparaíso,Con Cón,Particular Pagado,6.364.071,61.536
-Los Lagos,Puerto Montt,Particular Pagado,6.352.449,59.793
-Atacama,Vallenar,Particular Pagado,6.348.939,62.203
-Los Lagos,Puerto Varas,Particular Pagado,6.324.792,59.524
-Bío-Bío,Talcahuano,Particular Pagado,6.317.403,59.930
-Metropolitana,Vitacura,Particular Pagado,6.314.710,59.928
-Los Lagos,Osorno,Particular Pagado,6.252.941,58.612
-O'Higgins,San Fernando,Particular Pagado,6.252.405,60.816
-Bío-Bío,Chiguayante,Particular Pagado,6.249.171,59.030
-Maule,Linares,Particular Pagado,6.246.053,59.813
-Metropolitana,Colina,Particular Pagado,6.242.152,61.125
-Los Ríos,Valdivia,Particular Pagado,6.203.910,59.437
-Valparaíso,Panquehue,Particular Pagado,6.203.750,61.177
-Metropolitana,Buin,Particular Pagado,6.201.853,59.933
-Atacama,Copiapó,Particular Pagado,6.199.436,60.207
-Valparaíso,Los Andes,Particular Pagado,6.173.824,59.349
-Metropolitana,La Reina,Particular Pagado,6.166.171,59.958
-Valparaíso,San Felipe,Particular Pagado,6.160.648,62.123
-O'Higgins,Rancagua,Particular Pagado,6.158.886,59.493
-Metropolitana,Las Condes,Particular Pagado,6.153.176,59.701
-Maule,Talca,Particular Pagado,6.152.701,61.918
-Metropolitana,Pudahuel,Particular Pagado,6.148.385,58.145
-Metropolitana,Recoleta,Particular Pagado,6.128.846,56.706
-Metropolitana,Paine,Particular Pagado,6.121.471,59.151
-Metropolitana,Estacion Central,Particular Pagado,6.111.471,58.083
-Bío-Bío,San Pedro De La Paz,Particular Pagado,6.104.657,58.774
-O'Higgins,Santa Cruz,Particular Pagado,6.087.813,60.197
-Bío-Bío,Los Angeles,Particular Pagado,6.081.986,58.224
-Metropolitana,Calera De Tango,Particular Pagado,6.076.865,59.503
-Metropolitana,Peñalolén,Particular Pagado,6.066.215,59.479
-Metropolitana,Quilicura,Particular Pagado,6.059.783,57.632
-Araucanía,Temuco,Particular Pagado,6.043.092,58.783
-O'Higgins,Machalí,Particular Pagado,6.029.783,58.510
-Bío-Bío,Chillán,Particular Pagado,6.010.000,59.904
-Metropolitana,Independencia,Particular Pagado,6.003.661,56.517
-Metropolitana,Huechuraba,Particular Pagado,5.990.968,58.875
-Maule,Curicó,Particular Pagado,5.989.858,59.188
-Metropolitana,Macul,Particular Pagado,5.933.817,57.141
-Metropolitana,Talagante,Particular Pagado,5.925.875,60.207
-Metropolitana,Providencia,Municipal,5.917.494,57.769
-Valparaíso,Viña Del Mar,Particular Pagado,5.914.065,59.201
-Metropolitana,Melipilla,Particular Pagado,5.912.897,59.039
-Metropolitana,Ñuñoa,Particular Pagado,5.910.543,58.283
-Metropolitana,San Miguel,Particular Pagado,5.906.871,57.300
-Coquimbo,La Serena,Particular Pagado,5.903.361,58.691
-Valparaíso,Calle Larga,Particular Pagado,5.883.158,60.400
-Bío-Bío,Coelemu,Particular Subvencionado,5.875.500,61.963
-Metropolitana,Maipú,Particular Pagado,5.875.259,58.747
-Valparaíso,Villa Alemana,Particular Pagado,5.873.659,59.012
-Metropolitana,La Florida,Particular Pagado,5.840.641,57.938
-Metropolitana,Puente Alto,Particular Pagado,5.826.394,58.335
-Los Lagos,Frutillar,Particular Pagado,5.808.182,59.825
-Valparaíso,Santo Domingo,Particular Pagado,5.807.500,61.033
-Tarapacá,Iquique,Particular Pagado,5.805.619,59.872
-Metropolitana,Vitacura,Municipal,5.781.500,55.952
-Bío-Bío,Yungay,Particular Subvencionado,5.762.273,60.376
-Arica y Parinacota,Arica,Particular Pagado,5.757.516,59.708
-Metropolitana,Curacaví,Particular Pagado,5.755.000,57.667
-Valparaíso,Casablanca,Particular Pagado,5.752.500,56.250
-Valparaíso,Valparaiso,Particular Pagado,5.743.448,58.252
-O'Higgins,Doñihue,Particular Subvencionado,5.735.750,58.580
-O'Higgins,Santa Cruz,Particular Subvencionado,5.733.367,58.368
-Metropolitana,San Bernardo,Particular Pagado,5.729.631,57.010
-Araucanía,Villarrica,Particular Pagado,5.718.917,58.009
-Metropolitana,Las Condes,Particular Subvencionado,5.713.410,55.888
-Metropolitana,Providencia,Particular Pagado,5.701.070,57.260
-Metropolitana,La Cisterna,Particular Pagado,5.682.763,57.386
-Magallanes,Punta Arenas,Particular Pagado,5.669.572,59.076
-Bío-Bío,Concepción,Particular Pagado,5.643.919,57.588
-Valparaíso,Quillota,Particular Pagado,5.635.455,57.997
-Metropolitana,Vitacura,Particular Subvencionado,5.622.419,57.781
-Antofagasta,Antofagasta,Particular Pagado,5.605.696,57.244
-Maule,Constitución,Particular Subvencionado,5.604.780,58.201
-Metropolitana,Ñuñoa,Municipal,5.598.002,55.025
-Metropolitana,Santiago,Municipal,5.583.767,56.986
-O'Higgins,San Vicente,Particular Subvencionado,5.576.761,57.076
-Metropolitana,Santiago,Particular Pagado,5.571.791,56.368
-O'Higgins,Las Cabras,Particular Subvencionado,5.531.000,57.442
-Metropolitana,Peñaflor,Particular Pagado,5.522.105,59.015
-Valparaíso,Calera,Particular Pagado,5.520.079,61.703
-Antofagasta,Calama,Particular Pagado,5.508.152,57.458
-O'Higgins,Rengo,Particular Subvencionado,5.502.121,57.809
-Maule,Parral,Particular Subvencionado,5.466.154,57.562
-Valparaíso,Cabildo,Particular Subvencionado,5.442.593,57.269
-O'Higgins,Requinoa,Particular Subvencionado,5.432.194,56.382
-Metropolitana,La Reina,Particular Subvencionado,5.424.306,56.086
-Atacama,Vallenar,Particular Subvencionado,5.413.473,57.970
-O'Higgins,Pichilemu,Particular Subvencionado,5.411.429,60.110
-O'Higgins,Nancagua,Particular Subvencionado,5.408.163,57.098
-Los Lagos,Puerto Varas,Particular Subvencionado,5.391.873,56.071
-Valparaíso,Con Cón,Particular Subvencionado,5.373.333,57.582
-Metropolitana,Pirque,Particular Pagado,5.353.372,57.917
-Bío-Bío,Penco,Particular Subvencionado,5.342.431,57.330
-Bío-Bío,San Carlos,Particular Subvencionado,5.342.347,57.895
-Los Ríos,Mariquina,Particular Subvencionado,5.324.200,55.803
-Los Lagos,Frutillar,Particular Subvencionado,5.313.108,57.763
-O'Higgins,San Fernando,Particular Subvencionado,5.313.047,56.479
-Bío-Bío,Talcahuano,Particular Subvencionado,5.293.192,56.464
-O'Higgins,Machalí,Particular Subvencionado,5.293.016,57.098
-Bío-Bío,San Pedro De La Paz,Particular Subvencionado,5.292.471,56.571
-Valparaíso,Zapallar,Particular Subvencionado,5.291.154,58.726
-Metropolitana,Lo Barnechea,Particular Subvencionado,5.281.901,54.691
-Valparaíso,Villa Alemana,Particular Subvencionado,5.273.179,56.190
-Metropolitana,Providencia,Particular Subvencionado,5.271.363,55.970
-Bío-Bío,Lota,Particular Subvencionado,5.260.568,58.164
-Bío-Bío,Hualpén,Particular Subvencionado,5.255.431,56.577
-Bío-Bío,San Nicolás,Municipal,5.250.923,58.548
-Bío-Bío,Chillán Viejo,Particular Subvencionado,5.239.649,57.695
-Valparaíso,Quilpué,Particular Pagado,5.234.430,56.514
-Antofagasta,Calama,Particular Subvencionado,5.233.289,56.243
-Los Lagos,Ancud,Municipal,5.229.785,57.662
-Coquimbo,La Serena,Particular Subvencionado,5.228.512,56.036
-Maule,Linares,Particular Subvencionado,5.220.801,56.500
-Bío-Bío,Arauco,Particular Subvencionado,5.207.687,57.003
-Antofagasta,Antofagasta,Particular Subvencionado,5.205.210,56.082
-Maule,San Javier,Particular Subvencionado,5.203.007,56.845
-Bío-Bío,Chiguayante,Particular Subvencionado,5.199.869,55.367
-Valparaíso,La Ligua,Particular Subvencionado,5.199.839,57.308
-Atacama,Copiapó,Particular Subvencionado,5.195.756,55.212
-Araucanía,Angol,Particular Subvencionado,5.192.229,56.805
-Metropolitana,Macul,Particular Subvencionado,5.191.272,55.479
-Magallanes,Punta Arenas,Particular Subvencionado,5.179.686,57.142
-Maule,Curicó,Particular Subvencionado,5.176.272,57.260
-Metropolitana,Las Condes,Municipal,5.172.666,55.975
-Bío-Bío,Concepción,Particular Subvencionado,5.171.013,56.254
-Los Lagos,Palena,Municipal,5.170.000,60.063
-Coquimbo,Ovalle,Particular Subvencionado,5.169.065,56.408
-Valparaíso,Isla De Pascua,Particular Subvencionado,5.168.942,58.427
-Valparaíso,Viña Del Mar,Particular Subvencionado,5.163.468,55.722
-Metropolitana,La Florida,Particular Subvencionado,5.159.966,55.296
-Tarapacá,Iquique,Particular Subvencionado,5.147.910,56.800
-Metropolitana,Lo Prado,Particular Subvencionado,5.147.123,57.514
-Metropolitana,Recoleta,Particular Subvencionado,5.144.925,55.232
-Valparaíso,Calera,Particular Subvencionado,5.144.388,56.911
-Bío-Bío,Nacimiento,Particular Subvencionado,5.143.473,58.120
-Bío-Bío,Yumbel,Particular Subvencionado,5.141.667,58.067
-Los Ríos,Panguipulli,Municipal,5.138.382,58.123
-Los Lagos,Castro,Municipal,5.133.814,58.207
-Valparaíso,Quillota,Particular Subvencionado,5.131.362,55.440
-Valparaíso,Quilpué,Particular Subvencionado,5.128.758,55.875
-Metropolitana,Maipú,Particular Subvencionado,5.128.425,55.458
-Araucanía,Temuco,Particular Subvencionado,5.126.652,55.109
-Valparaíso,Santo Domingo,Particular Subvencionado,5.113.228,56.113
-Bío-Bío,Chillán,Particular Subvencionado,5.102.069,56.967
-Coquimbo,Illapel,Particular Subvencionado,5.098.619,57.019
-Araucanía,Villarrica,Particular Subvencionado,5.097.976,56.431
-Los Ríos,Valdivia,Particular Subvencionado,5.097.368,55.894
-Los Ríos,La Unión,Municipal,5.094.884,56.266
-Los Lagos,Purranque,Particular Subvencionado,5.084.826,55.549
-Antofagasta,Tocopilla,Particular Subvencionado,5.082.766,56.530
-Coquimbo,Punitaqui,Particular Subvencionado,5.073.333,54.268
-Metropolitana,Maipú,Municipal,5.073.162,55.771
-Maule,San Clemente,Particular Subvencionado,5.068.276,57.619
-Los Lagos,Quellón,Particular Subvencionado,5.066.301,56.760
-Magallanes,Cabo De Hornos,Municipal,5.064.130,58.044
-Maule,Curicó,Municipal,5.059.036,57.472
-Metropolitana,San Bernardo,Particular Subvencionado,5.052.404,55.769
-Metropolitana,Paine,Particular Subvencionado,5.046.685,56.662
-Valparaíso,Los Andes,Particular Subvencionado,5.046.546,56.647
-Metropolitana,San Ramón,Particular Subvencionado,5.045.713,54.464
-Aysén,Aysén,Particular Subvencionado,5.045.493,55.799
-Valparaíso,Hijuelas,Particular Subvencionado,5.039.671,58.192
-Araucanía,Temuco,Municipal,5.034.543,55.028
-Araucanía,Loncoche,Municipal,5.033.253,55.389
-Valparaíso,Algarrobo,Particular Subvencionado,5.031.818,56.480
-Aysén,Cochrane,Municipal,5.031.500,55.468
-Metropolitana,San Miguel,Municipal,5.030.120,53.635
-Los Lagos,Puerto Montt,Particular Subvencionado,5.025.296,55.095
-Valparaíso,San Felipe,Particular Subvencionado,5.019.830,57.348
-Metropolitana,Estacion Central,Particular Subvencionado,5.017.321,53.995
-Metropolitana,Santiago,Particular Subvencionado,5.017.230,54.836
-Los Lagos,Quinchao,Particular Subvencionado,5.008.929,56.686
-Araucanía,Traiguén,Particular Subvencionado,5.005.430,56.616
-O'Higgins,Quinta De Tilcoco,Particular Subvencionado,5.004.241,57.890
-Metropolitana,Puente Alto,Particular Subvencionado,5.002.008,54.984
-Maule,Teno,Particular Subvencionado,5.001.596,57.831
-Bío-Bío,Bulnes,Particular Subvencionado,5.000.000,57.484
-Metropolitana,Peñalolén,Particular Subvencionado,4.998.911,54.861
-Los Lagos,Calbuco,Particular Subvencionado,4.997.091,56.460
-Bío-Bío,Los Angeles,Particular Subvencionado,4.996.641,55.621
-Maule,Talca,Municipal,4.990.857,56.985
-Metropolitana,El Bosque,Particular Subvencionado,4.986.732,54.459
-Los Lagos,Castro,Particular Subvencionado,4.979.628,56.751
-Atacama,Diego De Almagro,Particular Subvencionado,4.975.537,57.323
-Metropolitana,Pedro Aguirre Cerda,Particular Subvencionado,4.974.344,53.577
-Metropolitana,Til-Til,Particular Subvencionado,4.972.571,57.755
-Bío-Bío,San Fabián,Municipal,4.962.286,57.206
-O'Higgins,Chimbarongo,Particular Subvencionado,4.962.185,55.430
-Los Lagos,Osorno,Particular Subvencionado,4.960.372,55.506
-Metropolitana,Quilicura,Particular Subvencionado,4.959.871,54.673
-Metropolitana,Buin,Particular Subvencionado,4.954.053,56.887
-Araucanía,Collipulli,Particular Subvencionado,4.952.403,55.195
-Valparaíso,El Quisco,Particular Subvencionado,4.950.294,55.929
-Los Lagos,Queilén,Municipal,4.946.818,58.817
-O'Higgins,Rancagua,Municipal,4.946.716,56.052
-Maule,Cauquenes,Particular Subvencionado,4.943.711,58.810
-Metropolitana,San Miguel,Particular Subvencionado,4.943.050,55.089
-Bío-Bío,Quirihue,Particular Subvencionado,4.942.286,59.374
-Maule,Licantén,Municipal,4.941.122,58.793
-Bío-Bío,Cañete,Particular Subvencionado,4.940.869,57.447
-Metropolitana,Quinta Normal,Particular Subvencionado,4.939.877,55.204
-Bío-Bío,Coronel,Particular Subvencionado,4.937.712,56.012
-Metropolitana,San José De Maipo,Particular Subvencionado,4.935.128,56.570
-Araucanía,Cunco,Municipal,4.934.655,57.163
-Bío-Bío,Concepción,Municipal,4.933.773,55.689
-Metropolitana,Cerrillos,Particular Subvencionado,4.928.516,53.798
-Bío-Bío,Cabrero,Particular Subvencionado,4.928.378,57.381
-Araucanía,Villarrica,Municipal,4.921.378,55.441
-Valparaíso,Quintero,Particular Subvencionado,4.918.610,57.183
-Maule,Hualañé,Municipal,4.918.320,59.329
-Maule,Talca,Particular Subvencionado,4.917.176,56.301
-Metropolitana,Talagante,Particular Subvencionado,4.907.805,55.686
-Coquimbo,Coquimbo,Particular Subvencionado,4.898.206,55.505
-Metropolitana,Renca,Corporación de Administración Delegada,4.896.577,54.384
-O'Higgins,Rancagua,Particular Subvencionado,4.892.820,55.663
-Metropolitana,La Cisterna,Corporación de Administración Delegada,4.892.750,52.444
-Los Lagos,Quinchao,Municipal,4.888.373,56.709
-Valparaíso,Santo Domingo,Municipal,4.887.083,56.873
-Los Ríos,Futrono,Particular Subvencionado,4.883.000,55.909
-Bío-Bío,Talcahuano,Corporación de Administración Delegada,4.872.861,54.312
-Valparaíso,Valparaiso,Particular Subvencionado,4.872.816,55.525
-Maule,Maule,Particular Subvencionado,4.868.846,58.183
-Los Lagos,Osorno,Municipal,4.868.013,54.657
-Valparaíso,Casablanca,Particular Subvencionado,4.867.430,56.762
-Maule,Linares,Municipal,4.865.296,55.515
-Araucanía,Pucón,Particular Subvencionado,4.859.136,55.820
-Metropolitana,La Granja,Particular Subvencionado,4.858.229,55.305
-Aysén,Coihaique,Particular Subvencionado,4.857.466,55.910
-Araucanía,Curacautín,Municipal,4.856.192,57.115
-Valparaíso,Rinconada,Particular Subvencionado,4.852.586,54.160
-Valparaíso,San Antonio,Particular Subvencionado,4.851.793,55.870
-Araucanía,Vilcún,Municipal,4.846.867,55.845
-Metropolitana,Ñuñoa,Particular Subvencionado,4.842.462,53.952
-Bío-Bío,Curanilahue,Particular Subvencionado,4.839.959,56.988
-Los Ríos,Paillaco,Municipal,4.837.586,58.855
-Los Lagos,Ancud,Particular Subvencionado,4.836.115,56.165
-Araucanía,Teodoro Schmidt,Particular Subvencionado,4.833.750,54.475
-Aysén,Cisnes,Municipal,4.828.587,56.396
-Los Lagos,Rio Negro,Corporación de Administración Delegada,4.827.553,55.155
-Maule,Longaví,Particular Subvencionado,4.826.136,56.878
-Araucanía,Victoria,Particular Subvencionado,4.821.763,56.034
-Valparaíso,Zapallar,Municipal,4.817.656,54.576
-Araucanía,Pucón,Municipal,4.814.560,55.287
-Bío-Bío,Lebu,Municipal,4.809.983,57.635
-Bío-Bío,Curanilahue,Municipal,4.808.133,58.131
-Bío-Bío,Ninhue,Municipal,4.807.955,59.732
-Coquimbo,Los Vilos,Particular Subvencionado,4.807.655,56.791
-Coquimbo,Salamanca,Particular Subvencionado,4.803.554,57.114
-O'Higgins,Litueche,Municipal,4.801.364,57.127
-Maule,Vichuquén,Municipal,4.799.459,57.324
-Aysén,Chile Chico,Municipal,4.799.079,55.762
-Los Ríos,Rio Bueno,Particular Subvencionado,4.798.819,57.195
-Los Ríos,Valdivia,Municipal,4.795.670,55.262
-Valparaíso,San Felipe,Corporación de Administración Delegada,4.794.229,55.505
-Maule,Pelluhue,Municipal,4.792.130,57.838
-Los Lagos,Puerto Montt,Municipal,4.787.747,55.245
-Metropolitana,Melipilla,Particular Subvencionado,4.787.453,55.736
-Metropolitana,La Cisterna,Particular Subvencionado,4.781.781,54.617
-Metropolitana,Curacaví,Particular Subvencionado,4.776.581,56.001
-O'Higgins,Rancagua,Corporación de Administración Delegada,4.771.858,53.665
-Bío-Bío,Los Angeles,Municipal,4.769.430,55.398
-Valparaíso,Cartagena,Particular Subvencionado,4.767.919,55.612
-Metropolitana,Maipú,Corporación de Administración Delegada,4.764.910,52.105
-Metropolitana,Alhué,Municipal,4.762.917,60.438
-Metropolitana,Conchalí,Particular Subvencionado,4.761.946,54.564
-O'Higgins,Pichilemu,Municipal,4.760.405,56.570
-Atacama,Diego De Almagro,Municipal,4.756.833,57.851
-Valparaíso,Villa Alemana,Municipal,4.756.384,54.386
-Arica y Parinacota,Arica,Particular Subvencionado,4.755.220,56.346
-Araucanía,Ercilla,Particular Subvencionado,4.755.000,53.570
-Metropolitana,Padre Hurtado,Particular Subvencionado,4.754.571,55.281
-Araucanía,Pitrufquén,Municipal,4.750.968,57.323
-Metropolitana,Renca,Particular Subvencionado,4.749.472,53.875
-Atacama,Caldera,Particular Subvencionado,4.746.082,55.464
-Valparaíso,Limache,Particular Subvencionado,4.740.894,55.439
-Los Lagos,Rio Negro,Particular Subvencionado,4.739.625,56.360
-O'Higgins,Graneros,Particular Subvencionado,4.736.556,54.491
-Araucanía,Pitrufquén,Particular Subvencionado,4.730.759,56.341
-Los Lagos,Puerto Octay,Particular Subvencionado,4.723.529,55.213
-Bío-Bío,Laja,Municipal,4.722.143,57.958
-Valparaíso,Valparaiso,Corporación de Administración Delegada,4.721.810,55.564
-Metropolitana,Peñaflor,Particular Subvencionado,4.720.516,55.270
-Valparaíso,Llay Llay,Particular Subvencionado,4.720.423,55.219
-O'Higgins,Chépica,Municipal,4.716.529,59.749
-Metropolitana,La Pintana,Particular Subvencionado,4.713.725,54.698
-Antofagasta,Calama,Municipal,4.710.384,54.445
-O'Higgins,Chimbarongo,Municipal,4.707.160,59.324
-Coquimbo,Monte Patria,Particular Subvencionado,4.706.932,54.469
-Los Lagos,Hualaihué,Municipal,4.704.796,58.357
-Bío-Bío,Tomé,Municipal,4.703.667,57.266
-Bío-Bío,Coihueco,Particular Subvencionado,4.702.419,58.658
-Los Lagos,Llanquihue,Particular Subvencionado,4.700.581,56.345
-Metropolitana,Independencia,Municipal,4.700.520,55.575
-Metropolitana,Independencia,Particular Subvencionado,4.698.888,54.957
-Metropolitana,Lo Espejo,Particular Subvencionado,4.697.991,55.149
-Los Lagos,Futaleufú,Municipal,4.694.595,57.129
-Bío-Bío,Coelemu,Municipal,4.694.397,58.437
-Metropolitana,Isla De Maipo,Particular Subvencionado,4.693.624,54.966
-Maule,Colbún,Municipal,4.692.687,55.060
-Metropolitana,La Cisterna,Municipal,4.691.734,53.690
-Metropolitana,San Joaquín,Particular Subvencionado,4.690.237,55.079
-Araucanía,Lautaro,Municipal,4.688.277,56.329
-Los Ríos,Lanco,Municipal,4.686.756,55.528
-Coquimbo,Vicuña,Particular Subvencionado,4.685.415,57.559
-Metropolitana,Lampa,Particular Subvencionado,4.681.345,55.086
-Valparaíso,Juan Fernandez,Municipal,4.676.500,56.436
-Bío-Bío,Nacimiento,Municipal,4.675.993,58.455
-Bío-Bío,Ranquil,Municipal,4.675.778,56.627
-Metropolitana,Quinta Normal,Corporación de Administración Delegada,4.671.217,53.715
-Valparaíso,Petorca,Particular Subvencionado,4.670.500,59.339
-Aysén,Coihaique,Municipal,4.668.524,56.501
-Araucanía,Angol,Municipal,4.662.851,55.077
-Los Ríos,Lago Ranco,Municipal,4.655.385,56.356
-Araucanía,Nueva Imperial,Particular Subvencionado,4.653.399,55.427
-Maule,Curepto,Municipal,4.653.158,58.185
-Metropolitana,Conchalí,Municipal,4.652.429,53.054
-Magallanes,Punta Arenas,Municipal,4.652.081,57.211
-O'Higgins,San Fernando,Municipal,4.651.365,54.397
-Metropolitana,Colina,Particular Subvencionado,4.645.455,54.363
-Bío-Bío,El Carmen,Municipal,4.645.129,58.196
-Metropolitana,Pudahuel,Particular Subvencionado,4.644.228,55.171
-Valparaíso,Llay Llay,Municipal,4.643.366,56.364
-Valparaíso,Los Andes,Corporación de Administración Delegada,4.643.160,55.272
-Bío-Bío,Pinto,Municipal,4.642.614,58.194
-Bío-Bío,Tomé,Corporación de Administración Delegada,4.639.724,56.132
-Los Ríos,Corral,Municipal,4.638.182,56.532
-Metropolitana,Macul,Municipal,4.637.737,54.332
-Los Ríos,Los Lagos,Municipal,4.637.519,57.317
-O'Higgins,Olivar,Particular Subvencionado,4.635.610,55.382
-Magallanes,Porvenir,Municipal,4.624.464,57.818
-Valparaíso,Los Andes,Municipal,4.620.461,56.177
-Maule,Longaví,Municipal,4.614.402,57.314
-Araucanía,Melipeuco,Municipal,4.614.167,55.362
-Bío-Bío,San Ignacio,Particular Subvencionado,4.612.500,57.464
-Metropolitana,Talagante,Municipal,4.612.332,55.746
-Coquimbo,Andacollo,Particular Subvencionado,4.611.216,56.418
-Bío-Bío,Cañete,Municipal,4.610.817,56.582
-Bío-Bío,Chillán,Corporación de Administración Delegada,4.608.268,56.288
-Antofagasta,San Pedro De Atacama,Municipal,4.606.724,55.739
-Valparaíso,Valparaiso,Municipal,4.605.852,54.998
-Metropolitana,El Bosque,Municipal,4.605.542,53.892
-Bío-Bío,Contulmo,Municipal,4.601.250,57.552
-Maule,Constitución,Municipal,4.600.851,54.447
-O'Higgins,Santa Cruz,Municipal,4.600.790,56.589
-Maule,Cauquenes,Municipal,4.600.283,57.036
-Bío-Bío,Coronel,Municipal,4.600.105,55.588
-Araucanía,Padre Las Casas,Particular Subvencionado,4.598.927,53.955
-Bío-Bío,Concepción,Corporación de Administración Delegada,4.598.454,56.246
-Tarapacá,Alto Hospicio,Municipal,4.597.981,55.511
-Bío-Bío,Mulchén,Municipal,4.597.509,55.043
-Arica y Parinacota,Arica,Municipal,4.597.456,57.491
-Coquimbo,Ovalle,Municipal,4.596.490,55.805
-Bío-Bío,Laja,Particular Subvencionado,4.590.703,57.122
-Bío-Bío,Chillán,Municipal,4.587.542,57.265
-O'Higgins,Rengo,Municipal,4.587.518,54.906
-Bío-Bío,Pemuco,Municipal,4.587.143,56.091
-Araucanía,Loncoche,Particular Subvencionado,4.586.214,56.417
-Metropolitana,Pirque,Particular Subvencionado,4.584.145,56.049
-Metropolitana,La Florida,Municipal,4.583.560,53.853
-Metropolitana,La Reina,Municipal,4.582.639,52.804
-Araucanía,Vilcún,Particular Subvencionado,4.579.784,55.818
-Los Lagos,Frutillar,Municipal,4.577.965,53.883
-Los Lagos,Los Muermos,Particular Subvencionado,4.576.423,54.623
-Metropolitana,Renca,Municipal,4.574.652,55.262
-Metropolitana,Ñuñoa,Corporación de Administración Delegada,4.574.057,54.060
-Araucanía,Carahue,Municipal,4.573.873,55.978
-Antofagasta,María Elena,Municipal,4.573.839,58.945
-O'Higgins,San Fernando,Corporación de Administración Delegada,4.572.775,55.628
-Maule,Curicó,Corporación de Administración Delegada,4.572.560,55.198
-Coquimbo,Coquimbo,Municipal,4.571.071,54.785
-Araucanía,Purén,Municipal,4.570.802,56.736
-Valparaíso,San Antonio,Particular Pagado,4.570.000,49.700
-Metropolitana,Puente Alto,Municipal,4.569.076,54.112
-Maule,Yerbas Buenas,Corporación de Administración Delegada,4.566.667,54.264
-Bío-Bío,San Rosendo,Municipal,4.566.071,57.105
-Maule,Constitución,Corporación de Administración Delegada,4.562.851,54.622
-Valparaíso,La Cruz,Particular Subvencionado,4.558.226,55.037
-Bío-Bío,Santa Juana,Municipal,4.556.765,55.051
-Tarapacá,Alto Hospicio,Particular Subvencionado,4.555.536,55.486
-Valparaíso,Olmué,Particular Subvencionado,4.554.198,55.371
-Valparaíso,Viña Del Mar,Corporación de Administración Delegada,4.552.763,51.712
-Atacama,Chañaral,Municipal,4.552.000,57.856
-Valparaíso,Calle Larga,Particular Subvencionado,4.550.698,54.671
-Magallanes,Natales,Particular Subvencionado,4.543.462,57.194
-Maule,Parral,Municipal,4.541.580,55.663
-Metropolitana,San Bernardo,Corporación de Administración Delegada,4.539.803,53.942
-Metropolitana,San Miguel,Corporación de Administración Delegada,4.537.483,55.113
-Los Lagos,Chaitén,Municipal,4.535.893,55.960
-Araucanía,Gorbea,Particular Subvencionado,4.535.000,55.180
-Los Lagos,Chonchi,Particular Subvencionado,4.534.286,57.300
-Los Lagos,Chonchi,Municipal,4.529.545,54.594
-Maule,Molina,Particular Subvencionado,4.527.463,57.434
-Maule,Molina,Corporación de Administración Delegada,4.524.455,54.804
-Los Ríos,La Unión,Particular Subvencionado,4.523.398,56.688
-Valparaíso,Calera,Corporación de Administración Delegada,4.516.466,52.785
-Bío-Bío,Quirihue,Municipal,4.513.631,58.918
-Maule,Molina,Municipal,4.511.773,56.602
-O'Higgins,San Vicente,Municipal,4.507.481,54.909
-Los Lagos,Calbuco,Municipal,4.506.927,55.518
-Valparaíso,Putaendo,Particular Subvencionado,4.500.741,56.447
-Valparaíso,San Felipe,Municipal,4.499.644,56.032
-Coquimbo,La Serena,Municipal,4.497.954,55.183
-Maule,Retiro,Particular Subvencionado,4.496.064,54.796
-Maule,Romeral,Municipal,4.495.978,55.298
-Los Lagos,Fresia,Municipal,4.495.161,56.508
-Atacama,Chañaral,Particular Subvencionado,4.494.286,58.106
-Bío-Bío,Portezuelo,Municipal,4.493.913,58.696
-O'Higgins,Coltauco,Particular Subvencionado,4.493.626,54.587
-Bío-Bío,Portezuelo,Particular Subvencionado,4.493.462,59.160
-Atacama,Copiapó,Municipal,4.492.920,53.807
-Araucanía,Angol,Corporación de Administración Delegada,4.491.573,51.236
-Bío-Bío,Talcahuano,Municipal,4.484.482,54.609
-Metropolitana,Huechuraba,Particular Subvencionado,4.483.994,54.117
-Los Lagos,Quellón,Municipal,4.482.809,55.981
-Bío-Bío,Arauco,Municipal,4.480.697,55.629
-Atacama,Alto Del Carmen,Municipal,4.479.762,55.835
-Metropolitana,Santiago,Corporación de Administración Delegada,4.478.882,54.524
-Bío-Bío,Lota,Municipal,4.475.643,56.238
-Los Lagos,Maullín,Municipal,4.474.309,56.077
-Los Ríos,Rio Bueno,Municipal,4.469.892,55.514
-Araucanía,Cunco,Particular Subvencionado,4.469.627,55.075
-Metropolitana,San Joaquín,Corporación de Administración Delegada,4.469.506,52.594
-Valparaíso,El Quisco,Municipal,4.468.333,54.477
-Valparaíso,Viña Del Mar,Municipal,4.467.294,54.426
-Valparaíso,Nogales,Particular Subvencionado,4.466.991,55.711
-Valparaíso,San Antonio,Municipal,4.463.595,56.187
-Bío-Bío,Los Alamos,Municipal,4.462.980,57.060
-Bío-Bío,Pinto,Particular Subvencionado,4.462.823,58.412
-Los Lagos,Purranque,Municipal,4.462.030,55.465
-Bío-Bío,Florida,Municipal,4.461.136,55.062
-Antofagasta,Antofagasta,Municipal,4.460.456,55.765
-Coquimbo,Combarbalá,Municipal,4.460.203,56.550
-Bío-Bío,San Carlos,Municipal,4.457.030,57.953
-O'Higgins,Peralillo,Municipal,4.456.500,57.159
-Araucanía,Temuco,Corporación de Administración Delegada,4.456.364,53.867
-O'Higgins,Peumo,Particular Subvencionado,4.456.200,56.230
-Tarapacá,Iquique,Municipal,4.453.247,55.612
-Coquimbo,Salamanca,Municipal,4.451.985,56.485
-Coquimbo,Combarbalá,Particular Subvencionado,4.451.522,58.304
-Coquimbo,Monte Patria,Municipal,4.450.147,56.118
-Araucanía,Nueva Imperial,Corporación de Administración Delegada,4.450.086,52.853
-Araucanía,Traiguén,Municipal,4.446.386,56.615
-Bío-Bío,Santa Bárbara,Particular Subvencionado,4.444.918,55.691
-Bío-Bío,Chiguayante,Municipal,4.444.065,54.141
-Maule,Teno,Municipal,4.443.962,55.853
-Los Lagos,Rio Negro,Municipal,4.441.585,55.112
-Tarapacá,Pica,Municipal,4.435.500,56.583
-Bío-Bío,Trehuaco,Municipal,4.434.364,58.548
-Bío-Bío,Yumbel,Municipal,4.434.043,55.540
-Araucanía,Saavedra,Municipal,4.429.792,55.850
-Maule,Chanco,Municipal,4.429.609,57.551
-Coquimbo,Andacollo,Municipal,4.423.839,55.041
-Bío-Bío,San Pedro De La Paz,Municipal,4.422.481,55.067
-Los Lagos,Puerto Octay,Municipal,4.418.824,54.422
-Los Ríos,Lanco,Particular Subvencionado,4.417.308,56.492
-Araucanía,Lonquimay,Municipal,4.415.116,58.386
-Bío-Bío,Quillón,Municipal,4.414.800,56.940
-Los Lagos,Puyehue,Particular Subvencionado,4.410.732,56.298
-Metropolitana,Isla De Maipo,Municipal,4.407.086,53.107
-Valparaíso,Olmué,Municipal,4.403.776,53.490
-Antofagasta,Taltal,Municipal,4.403.235,59.757
-Los Ríos,Márfil,Particular Subvencionado,4.402.538,56.343
-Araucanía,Victoria,Municipal,4.402.131,54.946
-Bío-Bío,Coihueco,Municipal,4.399.265,55.313
-Magallanes,Natales,Municipal,4.399.175,57.054
-Los Lagos,Puerto Varas,Municipal,4.398.537,55.202
-Bío-Bío,Santa Bárbara,Municipal,4.397.840,56.668
-Araucanía,Collipulli,Municipal,4.396.235,55.407
-Los Ríos,Mariquina,Municipal,4.395.357,55.497
-Bío-Bío,Coronel,Corporación de Administración Delegada,4.394.688,54.505
-O'Higgins,MarchigÃ¼e,Municipal,4.393.750,51.306
-Metropolitana,Recoleta,Corporación de Administración Delegada,4.393.433,52.839
-Coquimbo,Los Vilos,Municipal,4.393.140,56.863
-Metropolitana,Peñaflor,Municipal,4.390.370,54.158
-Bío-Bío,Bulnes,Municipal,4.386.389,57.688
-Bío-Bío,Tucapel,Municipal,4.385.188,57.348
-Araucanía,Cholchol,Particular Subvencionado,4.385.174,55.741
-Bío-Bío,Ñiquén,Municipal,4.384.355,56.605
-Los Lagos,San Juan De La Costa,Particular Subvencionado,4.378.846,57.476
-Araucanía,Nueva Imperial,Municipal,4.376.754,54.733
-Los Lagos,Llanquihue,Municipal,4.375.385,54.543
-Valparaíso,Puchuncaví,Municipal,4.374.496,56.812
-Metropolitana,Estacion Central,Corporación de Administración Delegada,4.373.351,54.905
-Bío-Bío,Yungay,Municipal,4.370.918,57.020
-Araucanía,Galvarino,Municipal,4.370.672,54.873
-Bío-Bío,Hualpén,Municipal,4.366.342,54.801
-O'Higgins,Doñihue,Municipal,4.361.420,53.879
-Metropolitana,Quinta Normal,Municipal,4.357.767,53.623
-O'Higgins,San Francisco De Mostazal,Particular Subvencionado,4.356.667,52.320
-Los Lagos,Curaco De Vélez,Municipal,4.349.071,57.154
-Valparaíso,Algarrobo,Municipal,4.348.415,55.112
-Atacama,Freirina,Municipal,4.346.897,58.423
-Valparaíso,Quillota,Municipal,4.345.825,55.027
-Maule,Retiro,Municipal,4.341.327,56.085
-Los Ríos,Paillaco,Particular Subvencionado,4.340.673,58.030
-Los Ríos,Panguipulli,Particular Subvencionado,4.340.479,56.550
-Metropolitana,Colina,Municipal,4.339.901,54.499
-Valparaíso,El Tabo,Municipal,4.339.091,55.419
-Los Ríos,Futrono,Municipal,4.337.222,53.735
-Valparaíso,Catemu,Particular Subvencionado,4.336.250,54.756
-Araucanía,Carahue,Particular Subvencionado,4.334.146,55.302
-Bío-Bío,Los Alamos,Particular Subvencionado,4.333.333,55.352
-Coquimbo,Canela,Municipal,4.332.717,59.714
-Araucanía,Perquenco,Municipal,4.331.438,55.472
-Coquimbo,Illapel,Municipal,4.330.429,55.615
-Los Lagos,Los Muermos,Municipal,4.329.595,55.250
-Araucanía,Toltén,Municipal,4.328.125,56.790
-Bío-Bío,Quilleco,Municipal,4.328.019,56.089
-Bío-Bío,Hualqui,Municipal,4.326.150,55.825
-Tarapacá,Iquique,Corporación de Administración Delegada,4.324.912,53.679
-Metropolitana,Lo Barnechea,Municipal,4.323.701,53.990
-Bío-Bío,Cabrero,Municipal,4.320.405,56.708
-Valparaíso,Quilpué,Municipal,4.316.098,54.594
-Los Lagos,San Pablo,Municipal,4.315.323,56.375
-Metropolitana,Recoleta,Municipal,4.314.652,55.001
-Valparaíso,Limache,Municipal,4.312.243,54.587
-Araucanía,Ercilla,Municipal,4.311.667,57.136
-Valparaíso,Cabildo,Municipal,4.310.894,55.587
-Maule,San Clemente,Municipal,4.308.776,54.495
-Metropolitana,Peñalolén,Municipal,4.307.051,53.505
-Metropolitana,San Ramón,Corporación de Administración Delegada,4.306.250,52.285
-Maule,Sagrada Familia,Municipal,4.306.136,55.640
-Bío-Bío,Chillán Viejo,Municipal,4.306.111,58.297
-Los Lagos,Hualaihué,Particular Subvencionado,4.306.000,57.556
-Metropolitana,El Monte,Particular Subvencionado,4.304.949,52.908
-O'Higgins,Las Cabras,Municipal,4.303.811,56.901
-Valparaíso,La Ligua,Municipal,4.301.810,55.395
-Araucanía,Perquenco,Particular Subvencionado,4.301.667,53.988
-Atacama,Vallenar,Municipal,4.299.808,56.140
-Metropolitana,San Bernardo,Municipal,4.294.524,53.967
-Bío-Bío,Penco,Municipal,4.294.133,55.593
-Atacama,Huasco,Municipal,4.293.357,57.821
-Metropolitana,Paine,Municipal,4.292.863,55.104
-Bío-Bío,Negrete,Particular Subvencionado,4.291.818,58.040
-O'Higgins,Lolol,Municipal,4.291.429,56.491
-Maule,San Javier,Municipal,4.289.518,54.419
-Metropolitana,Buin,Municipal,4.288.694,55.175
-Metropolitana,El Monte,Municipal,4.287.778,56.065
-Bío-Bío,Tirua,Municipal,4.284.239,58.166
-O'Higgins,Codegua,Particular Subvencionado,4.283.824,55.700
-Metropolitana,Estacion Central,Municipal,4.282.442,53.720
-Maule,Romeral,Particular Subvencionado,4.281.500,57.092
-Metropolitana,Pudahuel,Municipal,4.280.023,54.216
-Antofagasta,Mejillones,Municipal,4.277.152,58.731
-Metropolitana,Curacaví,Municipal,4.272.456,57.018
-Valparaíso,Cartagena,Municipal,4.272.056,55.937
-Araucanía,Curacautín,Corporación de Administración Delegada,4.271.923,56.280
-Coquimbo,Ovalle,Corporación de Administración Delegada,4.270.729,52.019
-Metropolitana,San Pedro,Municipal,4.266.721,54.867
-O'Higgins,Paredones,Municipal,4.266.538,55.927
-Maule,Empedrado,Municipal,4.265.833,54.815
-Los Lagos,Quemchi,Municipal,4.264.800,55.523
-Araucanía,Freire,Municipal,4.260.820,56.037
-Los Lagos,Cochamó,Municipal,4.260.000,54.900
-Metropolitana,Cerro Navia,Particular Subvencionado,4.259.631,53.676
-Metropolitana,Til-Til,Municipal,4.255.593,54.344
-O'Higgins,Pichidegua,Municipal,4.252.432,55.085
-Valparaíso,La Cruz,Municipal,4.248.968,54.853
-Metropolitana,Pirque,Municipal,4.247.917,53.830
-Valparaíso,Hijuelas,Municipal,4.244.770,55.577
-Valparaíso,Nogales,Municipal,4.244.643,55.765
-O'Higgins,Navidad,Municipal,4.242.155,55.204
-Valparaíso,Casablanca,Municipal,4.242.008,55.692
-Valparaíso,Petorca,Municipal,4.241.000,56.422
-O'Higgins,Coinco,Municipal,4.239.259,55.664
-Bío-Bío,San Ignacio,Municipal,4.236.172,59.058
-Los Lagos,Puyehue,Municipal,4.232.586,57.855
-Maule,Maule,Corporación de Administración Delegada,4.231.633,54.585
-Valparaíso,Panquehue,Municipal,4.226.000,55.651
-Valparaíso,San Esteban,Municipal,4.225.714,53.662
-Bío-Bío,Quilleco,Particular Subvencionado,4.225.000,57.367
-Aysén,Aysén,Municipal,4.220.909,53.142
-O'Higgins,Palmilla,Municipal,4.217.941,55.355
-O'Higgins,Olivar,Municipal,4.216.359,53.374
-Metropolitana,Calera De Tango,Particular Subvencionado,4.212.867,53.436
-O'Higgins,San Francisco De Mostazal,Municipal,4.212.273,54.521
-Metropolitana,La Granja,Municipal,4.211.554,53.503
-Valparaíso,Santa Maria,Particular Subvencionado,4.211.462,54.585
-Maule,Villa Alegre,Municipal,4.209.828,59.172
-Los Lagos,Dalcahue,Municipal,4.207.885,55.794
-O'Higgins,Nancagua,Municipal,4.207.258,55.650
-Metropolitana,Maria Pinto,Municipal,4.205.000,54.523
-Bío-Bío,Los Angeles,Corporación de Administración Delegada,4.202.907,54.252
-Arica y Parinacota,Putre,Municipal,4.194.038,53.866
-Metropolitana,Lo Prado,Municipal,4.191.667,53.520
-Araucanía,Teodoro Schmidt,Municipal,4.190.811,55.555
-Valparaíso,El Tabo,Particular Subvencionado,4.189.853,53.366
-Bío-Bío,Negrete,Municipal,4.189.355,56.254
-O'Higgins,Machalí,Municipal,4.187.530,54.332
-Coquimbo,Vicuña,Municipal,4.185.568,54.605
-Bío-Bío,Antuco,Municipal,4.179.186,57.059
-Los Lagos,Fresia,Particular Subvencionado,4.172.762,54.675
-Valparaíso,Con Cón,Municipal,4.168.182,55.600
-Metropolitana,Cerrillos,Municipal,4.167.105,55.557
-O'Higgins,Codegua,Municipal,4.155.588,56.000
-Metropolitana,Melipilla,Municipal,4.152.205,53.932
-Araucanía,Gorbea,Municipal,4.150.660,53.906
-Coquimbo,Paihuano,Municipal,4.147.222,54.604
-Araucanía,Saavedra,Particular Subvencionado,4.146.667,54.185
-Metropolitana,Pedro Aguirre Cerda,Municipal,4.146.216,54.018
-O'Higgins,Graneros,Municipal,4.141.813,54.053
-O'Higgins,Coltauco,Municipal,4.136.731,54.818
-Metropolitana,Cerro Navia,Municipal,4.127.813,53.905
-Araucanía,Galvarino,Particular Subvencionado,4.127.000,56.047
-Valparaíso,Santa Maria,Municipal,4.124.359,53.025
-Los Ríos,Márfil,Municipal,4.122.500,56.707
-O'Higgins,Peumo,Municipal,4.120.588,56.296
-Los Lagos,San Juan De La Costa,Municipal,4.118.125,54.188
-Valparaíso,Isla De Pascua,Municipal,4.112.174,54.746
-Maule,Yerbas Buenas,Municipal,4.109.474,54.842
-Tarapacá,Pozo Almonte,Municipal,4.104.914,56.240
-Metropolitana,Calera De Tango,Municipal,4.090.329,55.654
-Bío-Bío,Cobquecura,Municipal,4.089.167,58.763
-Metropolitana,Pedro Aguirre Cerda,Corporación de Administración Delegada,4.087.071,52.819
-O'Higgins,Quinta De Tilcoco,Municipal,4.086.200,55.416
-Araucanía,Melipeuco,Particular Subvencionado,4.081.053,58.841
-Metropolitana,San José De Maipo,Municipal,4.077.534,53.365
-Metropolitana,Lampa,Municipal,4.077.133,55.669
-Araucanía,Toltén,Particular Subvencionado,4.070.000,55.300
-Araucanía,Renaico,Municipal,4.069.615,55.204
-Metropolitana,Quilicura,Municipal,4.054.583,53.809
-Maule,Rio Claro,Municipal,4.051.667,52.748
-Bío-Bío,Quilaco,Municipal,4.050.909,53.885
-Coquimbo,Punitaqui,Municipal,4.050.000,54.126
-Metropolitana,La Pintana,Municipal,4.045.155,54.496
-Los Lagos,Maullín,Particular Subvencionado,4.045.000,55.600
-Maule,Colbún,Particular Subvencionado,4.045.000,53.500
-Coquimbo,Rio Hurtado,Municipal,4.032.073,54.481
-Valparaíso,Calle Larga,Municipal,4.018.889,50.329
-O'Higgins,Requinoa,Municipal,4.018.558,55.514
-Atacama,Tierra Amarilla,Municipal,4.013.506,55.460
-Los Lagos,Futaleufú,Particular Subvencionado,4.010.000,
-Bío-Bío,Hualqui,Particular Subvencionado,4.006.667,54.014
-O'Higgins,Placilla,Municipal,4.005.500,55.087
-Atacama,Caldera,Municipal,4.001.852,53.709
-Los Lagos,San Pablo,Particular Subvencionado,3.998.000,54.675
-Metropolitana,San Ramón,Municipal,3.985.584,53.080
-Valparaíso,Quintero,Municipal,3.979.333,54.261
-Araucanía,Freire,Particular Subvencionado,3.967.813,54.142
-Maule,Pencahue,Municipal,3.966.667,60.132
-Valparaíso,Papudo,Municipal,3.960.000,55.002
-Valparaíso,Calera,Municipal,3.955.217,52.818
-Aysén,Coihaique,Corporación de Administración Delegada,3.945.000,54.990
-Araucanía,Lumaco,Municipal,3.944.833,54.864
-Araucanía,Los Sauces,Municipal,3.941.194,54.791
-Metropolitana,Lo Espejo,Municipal,3.940.038,52.799
-Valparaíso,Putaendo,Municipal,3.921.818,54.821
-Antofagasta,Tocopilla,Municipal,3.921.360,54.756
-Metropolitana,San Joaquín,Municipal,3.915.121,55.121
-Valparaíso,Catemu,Municipal,3.913.451,53.907
-Los Ríos,Los Lagos,Particular Subvencionado,3.902.237,56.082
-Metropolitana,Padre Hurtado,Municipal,3.897.449,53.647
-Metropolitana,Huechuraba,Municipal,3.897.326,53.355
-Araucanía,Curarrehue,Municipal,3.864.583,53.660
-Araucanía,Lautaro,Particular Subvencionado,3.858.333,53.504
-Maule,Villa Alegre,Particular Subvencionado,3.853.824,56.419
-Maule,Rauco,Municipal,3.851.667,56.878
-Magallanes,Porvenir,Particular Subvencionado,3.842.180,52.227
-Tarapacá,Huara,Municipal,3.782.308,56.227
-Maule,Pelarco,Municipal,3.754.643,56.456
-Tarapacá,Pozo Almonte,Particular Subvencionado,3.730.000,49.000
-Tarapacá,Colchane,Municipal,3.701.667,54.933
-Bío-Bío,Alto Bio Bio,Municipal,3.689.583,55.148
-Coquimbo,La Higuera,Municipal,3.645.000,55.000
-Bío-Bío,Trehuaco,Particular Subvencionado,3.600.556,60.100
+region,comuna,administra,psu,nem
+Metropolitana,Lo Barnechea,Particular Pagado,640.9856,6.1418
+Metropolitana,Vitacura,Particular Pagado,631.4710,5.9928
+Metropolitana,Colina,Particular Pagado,624.2152,6.1125
+Metropolitana,Buin,Particular Pagado,620.1853,5.9933
+Metropolitana,La Reina,Particular Pagado,616.6171,5.9958
+Metropolitana,Las Condes,Particular Pagado,615.3176,5.9701
+Metropolitana,Pudahuel,Particular Pagado,614.8385,5.8145
+Metropolitana,Recoleta,Particular Pagado,612.8846,5.6706
+Metropolitana,Paine,Particular Pagado,	612.1471,5.9151
+Metropolitana,Estacion Central,Particular Pagado,611.1471,5.8083
+Metropolitana,Calera De Tango,Particular Pagado,607.6865,5.9503
+Metropolitana,Peñalolén,Particular Pagado,606.6215,5.9479
+Metropolitana,Quilicura,Particular Pagado,605.9783,5.7632
+Metropolitana,Independencia,Particular Pagado,600.3661,5.6517
+Metropolitana,Huechuraba,Particular Pagado,599.0968,5.8875
+Metropolitana,Macul,Particular Pagado,593.3817,5.7141
+Metropolitana,Talagante,Particular Pagado,592.5875,6.0207
+Metropolitana,Providencia,Municipal,591.7494,5.7769
+Metropolitana,Melipilla,Particular Pagado,591.2897,5.9039
+Metropolitana,Ñuñoa, Particular Pagado,591.0543,5.8283
+Metropolitana,San Miguel,Particular Pagado,590.6871,5.7300
+Metropolitana,Maipú,Particular Pagado,587.5259,5.8747
+Metropolitana,La Florida,Particular Pagado,584.0641,5.7938
+Metropolitana,Puente Alto,Particular Pagado,582.6394,5.8335
+Metropolitana,Vitacura,Municipal,578.1500, 5.5952
+Metropolitana,Curacaví,Particular Pagado,575.5000,5.7667
+Metropolitana,San Bernardo,Particular Pagado,572.9631,5.7010
+Metropolitana,Las Condes,Particular Subvencionado,571.3410,5.5888
+Metropolitana,Providencia,Particular Pagado,570.1070,5.7260
+Metropolitana,La Cisterna,Particular Pagado,568.2763, 	5.7386
+Metropolitana,Vitacura,Particular Subvencionado,562.2419,5.7781
+Metropolitana,Ñuñoa,Municipal,559.8002,5.5025
+Metropolitana,Santiago,Municipal,558.3767,5.6986
+Metropolitana,Santiago,Particular Pagado,557.1791,5.6368
+Metropolitana,Peñaflor,Particular Pagado,552.2105,5.9015
+Metropolitana,La Reina,Particular Subvencionado,542.4306,5.6086
+Metropolitana,Pirque,Particular Pagado,535.3372,5.7917
+Metropolitana,Lo Barnechea,Particular Subvencionado,528.1901,5.4691
+Metropolitana,Providencia,Particular Subvencionado,527.1363,5.5970
+Metropolitana,Macul,Particular Subvencionado,519.1272,5.5479
+Metropolitana,Las Condes,Municipal,517.2666,5.5975
+Metropolitana,La Florida,Particular Subvencionado,515.9966,5.5296
+Metropolitana,Lo Prado,Particular Subvencionado,514.7123,5.7514
+Metropolitana,Recoleta,Particular Subvencionado,514.4925,5.5232
+Metropolitana,Maipú,Particular Subvencionado,512.8425,5.5458
+Metropolitana,Maipú,Municipal,507.3162,5.5771
+Metropolitana,San Bernardo,Particular Subvencionado,505.2404,5.5769
+Metropolitana,Paine,Particular Subvencionado,504.6685,5.6662
+Metropolitana,San Ramón,Particular Subvencionado,504.5713,5.4464
+Metropolitana,San Miguel,Municipal,503.0120,5.3635
+Metropolitana,Estacion Central,Particular Subvencionado,501.7321,5.3995
+Metropolitana,Santiago,Particular Subvencionado,501.7230,5.4836
+Metropolitana,Puente Alto,Particular Subvencionado,500.2008,5.4984
+Metropolitana,Peñalolén,Particular Subvencionado,499.8911,5.4861
+Metropolitana,El Bosque,Particular Subvencionado,498.6732,5.4459
+Metropolitana,Pedro Aguirre Cerda,Particular Subvencionado,497.4344,5.3577
+Metropolitana,Til-Til,Particular Subvencionado,497.2571,5.7755
+Metropolitana,Quilicura,Particular Subvencionado,495.9871,5.4673
+Metropolitana,Buin,Particular Subvencionado,495.4053,5.6887
+Metropolitana,San Miguel,Particular Subvencionado,494.3050,5.5089
+Metropolitana,Quinta Normal,Particular Subvencionado,493.9877,5.5204
+Metropolitana,San José De Maipo,Particular Subvencionado,493.5128,5.6570
+Metropolitana,Cerrillos,Particular Subvencionado,492.8516,5.3798
+Metropolitana,Talagante,Particular Subvencionado,490.7805,5.5686
+Metropolitana,La Granja,Particular Subvencionado,485.8229,5.5305
+Metropolitana,Ñuñoa,Particular Subvencionado,484.2462,5.3952
+Metropolitana,Melipilla,Particular Subvencionado,478.7453,5.5736
+Metropolitana,La Cisterna,Particular Subvencionado,478.1781,5.4617
+Metropolitana,Curacaví,Particular Subvencionado,477.6581,5.6001
+Metropolitana,Alhué,Municipal,476.2917,6.0438
+Metropolitana,Conchalí,Particular Subvencionado,476.1946,5.4564
+Metropolitana,Padre Hurtado, Particular Subvencionado,475.4571,5.5281
+Metropolitana,Renca,Particular Subvencionado,474.9472,5.3875
+Metropolitana,Peñaflor,Particular Subvencionado,472.0516,5.5270
+Metropolitana,La Pintana,Particular Subvencionado,471.3725,5.4698
+Metropolitana,Independencia,Municipal,470.0520,5.5575
+Metropolitana,Independencia,Particular Subvencionado,469.8888,5.4957
+Metropolitana,Lo Espejo,Particular Subvencionado,469.7991,5.5149
+Metropolitana,Isla De Maipo,Particular Subvencionado,469.3624,5.4966
+Metropolitana,La Cisterna,Municipal,469.1734,5.3690
+Metropolitana,San Joaquí­n,Particular Subvencionado,469.0237,5.5079
+Metropolitana,Lampa,Particular Subvencionado,468.1345,5.5086
+Metropolitana,Conchalí, Municipal,465.2429,5.3054
+Metropolitana,Colina,Particular Subvencionado,464.5455,5.4363
+Metropolitana,Pudahuel,Particular Subvencionado,464.4228,5.5171
+Metropolitana,Macul,Municipal,463.7735,5.4332
+Metropolitana,Talagante,Municipal,461.2332,5.5746
+Metropolitana,El Bosque,Municipal,460.5542,5.3892
+Metropolitana,Pirque,Particular Subvencionado,458.4145,5.6049
+Metropolitana,La Florida,Municipal,458.3560,5.3853
+Metropolitana,La Reina,Municipal,458.2639,5.2804
+Metropolitana,Renca,Municipal,457.4652,5.5262
+Metropolitana,Puente Alto,Municipal,456.9076,5.4112
+Metropolitana,Huechuraba,Particular Subvencionado,448.3994,5.4117
+Metropolitana,Isla De Maipo,Municipal,440.7086,5.3107
+Metropolitana,Peñaflor,Municipal,439.0370,5.4158
+Metropolitana,Quinta Normal,Municipal,435.7767,5.3623
+Metropolitana,Colina,Municipal,433.9901,5.4499
+Metropolitana,Lo Barnechea,Municipal,432.3701,5.3990
+Metropolitana,Recoleta,Municipal,431.4652,5.5001
+Metropolitana,Peñalolén,Municipal,430.7051,5.3505
+Metropolitana,El Monte,Particular Subvencionado,430.4949,5.2908
+Metropolitana,San Bernardo,Municipal,429.4524,5.3967
+Metropolitana,Paine,Municipal,429.2863,5.5104
+Metropolitana,Buin,Municipal,428.8694,5.5175
+Metropolitana,El Monte,Municipal,428.7778,5.6065
+Metropolitana,Estacion Central,Municipal,428.2442,5.3720
+Metropolitana,Pudahuel,Municipal,428.0023,5.4216
+Metropolitana,Curacaví,Municipal,427.2456,5.7018
+Metropolitana,San Pedro,Municipal,426.6721,5.4867
+Metropolitana,Cerro Navia,Particular Subvencionado,425.9631,5.3676
+Metropolitana,Til-Til,Municipal,425.5593,5.4344
+Metropolitana,Pirque,Municipal,424.7917,5.3830
+Metropolitana,Calera De Tango,Particular Subvencionado,421.2867,5.3436
+Metropolitana,La Granja,Municipal,421.1554,5.3503
+Metropolitana,Maria Pinto,Municipal,420.5000,5.4523
+Metropolitana,Lo Prado,Municipal,419.1667,5.3520
+Metropolitana,Cerrillos,Municipal,416.7105,5.5557
+Metropolitana,Melipilla,Municipal,415.2205,5.3932
+Metropolitana,Pedro Aguirre Cerda,Municipal,414.6216,5.4018
+Metropolitana,Cerro Navia,Municipal,412.7813,5.3905
+Metropolitana,Calera De Tango,Municipal,409.0329,5.5654
+Metropolitana,San José De Maipo,Municipal,407.7534,5.3365
+Metropolitana,Lampa,Municipal,407.7133,5.5669
+Metropolitana,Quilicura,Municipal,405.4583,5.3809
+Metropolitanq,La Pintana,Municipal,404.5155,5.4496
+Metropolitana,San Ramón,Municipal,398.5584,5.3080
+Metropolitana,Lo Espejo,Municipal,394.0038,5.2799
+Metropolitana,San Joaquín,Municipal,391.5121,5.5121
+Metropolitana,Padre Hurtado,Municipal,389.7449,5.3647
+Metropolitana,Huechuraba,Municipal,389.7326,5.3355
