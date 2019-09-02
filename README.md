@@ -1,3 +1,3 @@
 Tercer desafío
 
-https://lyytoral.github.io/PrimeraEvaluacion/
+https://lyytoral.github.io/TercerDesafio/
