@@ -1,8 +1,9 @@
+
 <!DOCTYPE html>
 <html>
 
 <head>
-    <title>Desafío 04</title>
+    <title>Cuarto Desafío</title>
     <link rel="stylesheet" type="text/css" href="estilo.css">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.9.0/p5.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.9.0/addons/p5.dom.min.js"></script>
@@ -39,19 +40,23 @@ function preload() {
 }
 
 function setup() {
+    fill(200, 255, 200);
     console.log(desempleo_hombres);
     console.log(desempleo_mujeres);
     createCanvas(windowWidth, windowHeight);
     noLoop();
     radio = createRadio();
     radio.position(width - 350, 15);
-    radio.style('font-size', '10px', 'fill', 'rgba(255,255,255,1)' );
+    radio.style('font-size', '10px',);
+   
+
     
     radio.option('febrero-abril  ', 1).checked = true;
     radio.option('marzo-mayo  ', 2);
     radio.option('abril-junio  ', 3);
     radio.changed(Cambio);
     textAlign(RIGHT);
+    
     for (i = 0; i < 16; i++) {
         noStroke();
         fill('rgba(255,255,255,1)');

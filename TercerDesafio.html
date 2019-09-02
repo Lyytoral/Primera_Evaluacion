@@ -4,7 +4,7 @@
 
 <head>
     <meta charset="UTF-8">
-    <title>TercerDesafío</title>
+    <title>Tercer Desafío</title>
     <link rel="stylesheet" type="text/css" href="estilo.css">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.9.0/p5.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.9.0/addons/p5.dom.min.js"></script>
@@ -83,15 +83,15 @@ function draw() {
                     console.log(data.get(k, 3));
                     noStroke();
                     fill('rgba(0,255,0, 0.25)');
-                    ellipse(data.get(k, 4) * 130 + 100, height - (data.get(k, 3)) +50,20,20);
+                    ellipse(data.get(k, 4) * 160  , height - (data.get(k, 3)) -50,20,20);
                     noFill();
 
-                } else if (250 < data.get(k, 4) < 500) {
+                } else if (data.get(k, 3) < 450) {
                     fill('rgba(255,0,0, 0.25)');
-                    ellipse(data.get(k, 4) * 130 + 100, height - (data.get(k, 3)) +50,20,20);
+                    ellipse(data.get(k, 4) * 160  , height - (data.get(k, 3)) -50,20,20);
                 } else {
-                    fill('rgba(255,255,255, 0.25)');
-                    ellipse(data.get(k, 4) * 130 + 100, height - (data.get(k, 3)) +50,20,20);
+                    fill('rgba(255,255,255,0.25)');
+                    ellipse(data.get(k, 4) * 160  , height - (data.get(k, 3)) -50,20,20);
 
                 }
 
@@ -110,21 +110,20 @@ function draw() {
 
             if (data.get(k, 2) == 'Particular Subvencionado') {
                 //  console.log(data.get(k,4));
-                if (data.get(k, 3) > 500 && data.get(k, 4) > 5.0) {
+           if (data.get(k, 3) > 500 && data.get(k, 4) > 5.0) {
                     console.log(data.get(k, 4));
                     console.log(data.get(k, 3));
                     noStroke();
                     fill('rgba(0,255,0, 0.25)');
-                    ellipse(data.get(k, 4) * 130 + 100, height - (data.get(k, 3)) +50,20,20);
+                    ellipse(data.get(k, 4) * 160  , height - (data.get(k, 3)) -50,20,20);
+                    noFill();
 
-                } else if (250 < data.get(k, 4) < 450) {
+                } else if (data.get(k, 3) < 450) {
                     fill('rgba(255,0,0, 0.25)');
-                    ellipse(data.get(k, 4) * 130 + 100, height - (data.get(k, 3)) +50,20,20);
-                    
-                    
+                    ellipse(data.get(k, 4) * 160  , height - (data.get(k, 3)) -50,20,20);
                 } else {
-                    fill('rgba(0,0,0, 0.25)');
-                    ellipse(data.get(k, 4) * 130 + 100, height - (data.get(k, 3)) +50,20,20);
+                    fill('rgba(255,255,255,0.25)');
+                    ellipse(data.get(k, 4) * 160  , height - (data.get(k, 3)) -50,20,20);
 
                 }
 
@@ -137,19 +136,20 @@ function draw() {
 
             if (data.get(k, 2) == 'Particular Pagado') {
                 //  console.log(data.get(k,4));
-                if (data.get(k, 3) > 500 && data.get(k, 4) > 5.0) {
+             if (data.get(k, 3) > 500 && data.get(k, 4) > 5.0) {
                     console.log(data.get(k, 4));
                     console.log(data.get(k, 3));
                     noStroke();
                     fill('rgba(0,255,0, 0.25)');
-                    ellipse(data.get(k, 4) * 130 + 100, height - (data.get(k, 3)) +50,20,20);
+                    ellipse(data.get(k, 4) * 160  , height - (data.get(k, 3)) -50,20,20);
+                    noFill();
 
-                } else if (250 < data.get(k, 4) < 500) {
+                } else if (data.get(k, 3) < 450) {
                     fill('rgba(255,0,0, 0.25)');
-                    ellipse(data.get(k, 4) * 130 + 100, height - (data.get(k, 3)) +50,20,20);
+                    ellipse(data.get(k, 4) * 160  , height - (data.get(k, 3)) -50,20,20);
                 } else {
                     fill('rgba(255,255,255,0.25)');
-                    ellipse(data.get(k, 4) * 130 + 100, height - (data.get(k, 3)) +50,20,20);
+                    ellipse(data.get(k, 4) * 160  , height - (data.get(k, 3)) -50,20,20);
 
                 }
 

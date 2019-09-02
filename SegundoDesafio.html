@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="UTF-8">
-    <title>Desafío 02</title>
+    <title>Segundo Desafío</title>
     <link rel="stylesheet" type="text/css" href="estilo.css">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.9.0/p5.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.9.0/addons/p5.dom.min.js"></script>
@@ -33,7 +33,7 @@
 </body>
 <script>
 var factor = 200;
-var cont = 500;
+var cont = 450;
 var Fijo = {
     'condiciones_laborales': [44.76, 86.35],
     'ambiente_negocios': [4.12, 72.17],
@@ -99,7 +99,7 @@ function setup() {
         text(Fijo.vivienda_entorno[y], 1475, height - Fijo.vivienda_entorno[y] * 8 - factor + 3);
         ellipse(1450, height - Fijo.vivienda_entorno[y] * 8 - factor, 5)
     }
-    stroke(2);
+    stroke(255);
     noFill();
 
 
@@ -116,21 +116,21 @@ function draw() {
             vertex(cont, height - Comunas[0].valores[k] * 8 - factor);
             cont += 200;
         }
-        cont = 500;
+        cont = 450;
     } else if (opcion == 1) {
         text('Cerro Navia', 100, 100);
         for (var k = 0; k < 6; k++) {
             vertex(cont, height - Comunas[1].valores[k] * 8 - factor);
             cont += 200;
         }
-        cont = 500;
+        cont = 450;
     } else {
         text('Conchalí', 100, 100);
         for (var k = 0; k < 6; k++) {
             vertex(cont, height - Comunas[2].valores[k] * 8 - factor);
             cont += 200;
         }
-        cont = 500;
+        cont = 450;
     }
     endShape();
 
@@ -168,7 +168,7 @@ function Cambio() {
         text(Fijo.vivienda_entorno[y], 1475, height - Fijo.vivienda_entorno[y] * 8 - factor + 3);
         ellipse(1450, height - Fijo.vivienda_entorno[y] * 8 - factor, 5)
     }
-    stroke(2);
+    stroke(255);
     noFill();
     
 
