@@ -1,3 +1,3 @@
-Tercerdesafio
+Tercer desafío
 
-https://github.com/Lyytoral/TercerDesafio
+https://lyytoral.github.io/TercerDesafio/
