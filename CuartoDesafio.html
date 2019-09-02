@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Desafío 04</title>
+    <link rel="stylesheet" type="text/css" href="estilo.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.9.0/p5.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.9.0/addons/p5.dom.min.js"></script>
+    <meta charset="utf-8">
+    <style>
+    html,
+    body {
+        margin: 0;
+        padding: 0;
+    }
+
+    canvas {
+        display: block;
+    }
+    </style>
+</head>
+
+<body>
+    <nav>
+        
+        <a href="index.html" >Revista UTE</a>
+        <a href="SegundoDesafio.html">ICVU 2019</a>
+        <a href="TercerDesafio.html">PSU/NEM</a>
+        <a href="#" class="actual">DESEMPLEO</a>
+        <a href="../desafio-05/index.html">CALENTAMIENTO GLOBAL</a>
+    </nav>
+</body>
+<script>
+var desempleo_hombres, desempleo_mujeres;
+
+function preload() {
+    desempleo_hombres = loadTable('https://raw.githubusercontent.com/pilarantara/faco_tab/master/desempleo-hombres.csv', 'csv', 'header');
+    desempleo_mujeres = loadTable('https://raw.githubusercontent.com/pilarantara/faco_tab/master/desempleo-mujeres.csv', 'csv', 'header');
+}
+
+function setup() {
+    console.log(desempleo_hombres);
+    console.log(desempleo_mujeres);
+    createCanvas(windowWidth, windowHeight);
+    noLoop();
+    radio = createRadio();
+    radio.position(width - 350, 15);
+    radio.style('font-size', '10px', 'fill', 'rgba(255,255,255,1)' );
+    
+    radio.option('febrero-abril  ', 1).checked = true;
+    radio.option('marzo-mayo  ', 2);
+    radio.option('abril-junio  ', 3);
+    radio.changed(Cambio);
+    textAlign(RIGHT);
+    for (i = 0; i < 16; i++) {
+        noStroke();
+        fill('rgba(255,255,255,1)');
+        text(desempleo_hombres.get(i, 0), 50, 100 + (50 * i), 200);
+        fill(200);
+        rect(280, 80 + (50 * i), width - 500, 40);
+
+    }
+    fill(255, 200, 255);
+    rect(280, 15, 10, -10);
+    textAlign(LEFT);
+    text('Hombres', 290, 15 );
+    fill(200, 255, 200);
+    rect(280, 30, 10, -10);
+    text('Mujeres', 290, 30 );
+
+
+
+}
+
+
+function draw() {
+    opcion = radio.value();
+
+    if (opcion == 1) {
+        for (k = 0; k < 16; k++) {
+            fill(255, 200, 255);
+            rect(280, 80 + (50 * k), (desempleo_hombres.get(k, 1)) * 50, 20);
+            fill(200, 255, 200);
+            rect(280, 100 + (50 * k), (desempleo_mujeres.get(k, 1)) * 50, 20);
+        }
+    }else if (opcion == 2) {
+        for (k = 0; k < 16; k++) {
+            fill(255, 200, 255);
+            rect(280, 80 + (50 * k), (desempleo_hombres.get(k, 2)) * 50, 20);
+            fill(200, 255, 200);
+            rect(280, 100 + (50 * k), (desempleo_mujeres.get(k, 2)) * 50, 20);
+        }
+
+    }else{
+        for (k = 0; k < 16; k++) {
+            fill(255, 200, 255);
+            rect(280, 80 + (50 * k), (desempleo_hombres.get(k, 3)) * 50, 20);
+            fill(200, 255, 200);
+            rect(280, 100 + (50 * k), (desempleo_mujeres.get(k, 3)) * 50, 20);
+        }
+
+    }
+}
+
+function Cambio() {
+    clear();
+    textAlign(RIGHT);
+    
+    for (i = 0; i < 16; i++) {
+        noStroke();
+       fill('rgba(255,255,255,1)');
+        text(desempleo_hombres.get(i, 0), 50, 100 + (50 * i), 200);
+        fill(200);
+        rect(280, 80 + (50 * i), width - 500, 40);
+
+    }
+    fill(255, 200, 255);
+    rect(280, 15, 10, -10);
+    textAlign(LEFT);
+    text('Hombres', 290, 15 );
+    fill(200, 255, 200);
+    rect(280, 30, 10, -10);
+    text('Mujeres', 290, 30);
+
+    redraw();
+
+
+}
+</script>
+
+</html>

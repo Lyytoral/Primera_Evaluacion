@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Desafío 02</title>
+    <link rel="stylesheet" type="text/css" href="estilo.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.9.0/p5.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.9.0/addons/p5.dom.min.js"></script>
+    <meta charset="utf-8">
+    <style>
+    html,
+    body {
+        margin: 0;
+        padding: 0;
+    }
+
+    canvas {
+        display: block;
+    }
+    </style>
+</head>
+
+<body>
+    <nav>
+       
+        <a href="index.html" >Revista UTE</a>
+        <a href="#" class="actual">ICVU 2019</a>
+        <a href="TercerDesafio.html">PSU/NEM</a>
+        <a href="CuartoDesafio.html">DESEMPLEO</a>
+        <a href="../desafio-05/index.html">CALENTAMIENTO GLOBAL</a>
+    </nav>
+</body>
+<script>
+var factor = 200;
+var cont = 500;
+var Fijo = {
+    'condiciones_laborales': [44.76, 86.35],
+    'ambiente_negocios': [4.12, 72.17],
+    'condiciones_socioculturales': [4.66, 52.27],
+    'conectividad_movilidad': [62.03, 88.8],
+    'salud_medioambiente': [36.38, 88.02],
+    'vivienda_entorno': [11.84, 86.46]
+}
+
+var Comunas = [
+    { comuna: "Cerrillos", valores: [61.41, 38.34, 41.83, 62.03, 49.66, 30.8] },
+    { comuna: "Cerro Navia", valores: [48.42, 14.14, 17.32, 74.71, 62.69, 22.25] },  
+    { comuna: "Conchalí", valores: [50.79, 22.1, 26.02, 81.25, 59.05, 26.89] },
+]
+
+console.log(Fijo);
+console.log(Comunas);
+
+
+function setup() {
+    createCanvas(windowWidth, windowHeight);
+    selector = createSelect();
+    selector.position(width - 150, 20);
+    selector.option('Cerrillos', 0);
+    selector.option('Cerro Navia', 1);
+    selector.option('Conchalí', 2);
+    selector.changed(Cambio);
+    noLoop();
+    textAlign(CENTER);
+    fill('rgba(255,255,255,1)');
+
+    text("Condiciones Laborales", 400, height - 100, 100);
+    text("Ambiente de negocios", 600, height - 100, 100);
+    text("Condiciones Socioculturales", 800, height - 100, 100);
+    text("Conectividad y Movilidad", 1000, height - 100, 100);
+    text("Salud y Medioambiente", 1200, height - 100, 100);
+    text("Vivienda y entorno", 1400, height - 100, 100);
+
+    for (var x = 0; x < 6; x++) {
+        textAlign(CENTER);
+        textSize(12);
+        text(Fijo[x], 250 + (x * 125), height - 400, 150);
+    }
+
+    noStroke();
+    fill(250, 20, 20);
+    for (var y = 0; y < 2; y++) {
+        text(Fijo.condiciones_laborales[y], 475, height - Fijo.condiciones_laborales[y] * 8 - factor + 3);
+        ellipse(450, height - Fijo.condiciones_laborales[y] * 8 - factor, 5);
+
+        text(Fijo.ambiente_negocios[y], 675, height - Fijo.ambiente_negocios[y] * 8 - factor + 3);
+        ellipse(650, height - Fijo.ambiente_negocios[y] * 8 - factor, 5);
+
+        text(Fijo.condiciones_socioculturales[y], 875, height - Fijo.condiciones_socioculturales[y] * 8 - factor + 3);
+        ellipse(850, height - Fijo.condiciones_socioculturales[y] * 8 - factor, 5);
+
+        text(Fijo.conectividad_movilidad[y], 1075, height - Fijo.conectividad_movilidad[y] * 8 - factor + 3);
+        ellipse(1050, height - Fijo.conectividad_movilidad[y] * 8 - factor, 5);
+
+        text(Fijo.salud_medioambiente[y], 1275, height - Fijo.salud_medioambiente[y] * 8 - factor + 3);
+        ellipse(1250, height - Fijo.salud_medioambiente[y] * 8 - factor, 5);
+
+        text(Fijo.vivienda_entorno[y], 1475, height - Fijo.vivienda_entorno[y] * 8 - factor + 3);
+        ellipse(1450, height - Fijo.vivienda_entorno[y] * 8 - factor, 5)
+    }
+    stroke(2);
+    noFill();
+
+
+}
+
+function draw() {
+    var opcion = selector.value();
+    beginShape();
+    
+
+    if (opcion == 0) {
+        text('Cerrillos', 100, 100);
+        for (var k = 0; k < 6; k++) {
+            vertex(cont, height - Comunas[0].valores[k] * 8 - factor);
+            cont += 200;
+        }
+        cont = 500;
+    } else if (opcion == 1) {
+        text('Cerro Navia', 100, 100);
+        for (var k = 0; k < 6; k++) {
+            vertex(cont, height - Comunas[1].valores[k] * 8 - factor);
+            cont += 200;
+        }
+        cont = 500;
+    } else {
+        text('Conchalí', 100, 100);
+        for (var k = 0; k < 6; k++) {
+            vertex(cont, height - Comunas[2].valores[k] * 8 - factor);
+            cont += 200;
+        }
+        cont = 500;
+    }
+    endShape();
+
+}
+
+function Cambio() {
+    clear();
+    redraw();
+    text("Condiciones Laborales", 400, height - 100, 100);
+    text("Ambiente de negocios", 600, height - 100, 100);
+    text("Condiciones Socioculturales", 800, height - 100, 100);
+    text("Conectividad y Movilidad", 1000, height - 100, 100);
+    text("Salud y Medioambiente", 1200, height - 100, 100);
+    text("Vivienda y entorno", 1400, height - 100, 100);
+
+
+    noStroke();
+    fill(200, 0, 0);
+    for (var y = 0; y < 2; y++) {
+        text(Fijo.condiciones_laborales[y], 475, height - Fijo.condiciones_laborales[y] * 8 - factor + 3);
+        ellipse(450, height - Fijo.condiciones_laborales[y] * 8 - factor, 5);
+
+        text(Fijo.ambiente_negocios[y], 675, height - Fijo.ambiente_negocios[y] * 8 - factor + 3);
+        ellipse(650, height - Fijo.ambiente_negocios[y] * 8 - factor, 5);
+
+        text(Fijo.condiciones_socioculturales[y], 875, height - Fijo.condiciones_socioculturales[y] * 8 - factor + 3);
+        ellipse(850, height - Fijo.condiciones_socioculturales[y] * 8 - factor, 5);
+
+        text(Fijo.conectividad_movilidad[y], 1075, height - Fijo.conectividad_movilidad[y] * 8 - factor + 3);
+        ellipse(1050, height - Fijo.conectividad_movilidad[y] * 8 - factor, 5);
+
+        text(Fijo.salud_medioambiente[y], 1275, height - Fijo.salud_medioambiente[y] * 8 - factor + 3);
+        ellipse(1250, height - Fijo.salud_medioambiente[y] * 8 - factor, 5);
+
+        text(Fijo.vivienda_entorno[y], 1475, height - Fijo.vivienda_entorno[y] * 8 - factor + 3);
+        ellipse(1450, height - Fijo.vivienda_entorno[y] * 8 - factor, 5)
+    }
+    stroke(2);
+    noFill();
+    
+
+
+
+
+}
+</script>
+
+</html>
