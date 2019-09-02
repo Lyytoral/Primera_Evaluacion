@@ -1,3 +1,3 @@
-Desafío 03
+Tercerdesafio
 
-https://bachiloglu.github.io/DGP602/ev-01/desafio-03/
+https://github.com/Lyytoral/TercerDesafio
